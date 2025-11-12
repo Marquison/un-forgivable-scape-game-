@@ -1,0 +1,107 @@
+COMODOS
+________________________________________________________________________________________________________________________________________________________________________________
+Sala:
+_TV(muda dependendo do que vc fez até então)(pode mostrar uma imagem dependendo do final que escolheu)
+_sofa
+_cadeiras(1,2,3,4,5,6)
+_mesa
+    \_pratos(1,2,3,4,5,6)
+        \_frutas(bola azul bola, vermelha)
+
+
+Banheiro:
+_espelho(reflexo)
+_vaso(interativo)
+_pia(escova, pasta)(sangue)
+_porta da ventilação(aberta)
+
+
+Garagem:
+_relógio((ponteiro das horas azul em 03H, ponteiros dos minutos vermelho em 5 min)puzzle das mesas e pratos)(03:05)(easter egg para final alternativo)
+_motor do portão com sistema de engrenagem travado e botão (recebe óleo)
+_carro sem gasolina(recebe gasolina)
+_portão(só abre com motor)
+
+
+Cozinha:
+_geladeira(protese de olho com iris vermelha, bola de gude azul , cubo de "gelo" feito de plastico duro(com chave da comoda da cozinha dentro do gelo))
+_fogão(derrete o gelo fosforo em inventario)
+_bancada(óleo)(trancada)
+
+
+Quarto(bagunçado):
+_quadro esquisito de criança sorrindo(esconde um cofre atras)
+_porta-retrato de uma mulher jovem seria meio misteriosa e meio horripilante apesar de não parecer oferecer risco(interativo(opção de virar))(contem uma senha misteriosa atras)
+_cofre secreto(senha misteriosa(chave do armazem)("não estava tão escondido assim"))
+_cama(sangue espalhado("....."))
+_bancada(fosforo("err... não é muito bom brincar com fogo, mas vou ficar com isso"))
+_guarda-roupas emperrando a porta("aarrrrrr" , ""vou ter que sair pela ventilação mesmo, muito pesado...")
+
+
+Armazem:
+_galão de gasolina("agora sim posso sair desse inferno")
+_chaves do carro("hell yeah!")
+_carrinho de brinquedo("parece estar desgastado, deve ter sido divertido brincar com isso")
+_boneco de brinquedo("batman... tabem gostava desse")
+
+
+Portas dos Comodos:
+_banheiro(aberto)
+_garagem(aberto)
+_cozinha(aberto)
+_quarto(fechado(emperrada com guarda-roupas))
+_armazem(fechado)
+________________________________________________________________________________________________________________________________________________________________________________
+
+
+
+ENREDO
+________________________________________________________________________________________________________________________________________________________________________________
+- o jogo começa com o cara no sofa da sala, em postura ereta e sombriamente inabalado, com a Tv de fundo iluminando pouco, está tudo meio escuro, não da para ver o seu rosto
+- a TV está dando interferência
+
+dialogo:"eu preciso sair daqui logo!"
+
+- ele se levanta e vira para trás, (troca de cenario: mostra as entradas dos comodos) e ascende as luzes da casa
+- aparece um menu de escolhas: #esse vai ser o cenario 'chave' sempre que sair de um como volta para ele e parece o menu de escolhas
+   banheiro(aberto)
+   garagem(aberto)
+   cozinha(aberto)
+   quarto(fechado)
+   armazem(fechado)
+# ao escolher qualquer quarto, o cenário muda também
+
+FINAL 1:
+- o jogador escolhe não fazer o puzzle das mesas
+- entra no banheiro
+- interage uma vez e mostra o reflexo
+- na segunda o espelho cai e mostra a entrada da ventilação
+- entra pela ventilação atras do espelho no quarto da mulher(troca de cenario: mostra a porta bloqueado por dentro por um guarda roupa derrubado , uma cama com sangue espalhado, um quadro com uma criança sorrindo, porta-retrato com mulher seria)
+- ele pode interagir com tudo, cada coisa tem uma mensagem
+- abre a bancada e pega o fosforo
+- ele pode pegar a senha atras da foto e abrir o cofre atras do quadro e sair pela ventilação
+- abre o armazem e pode pegar a gasolina
+- abre a geladeira e pega o cubo de gelo
+- interage com fogão(fosforo) e "descongela" cubo de "gelo", pega o oléo para o motor
+- interage com motor(oleo) e abre portão
+- interage com carro(gasolina && chave) e foje
+
+
+FINAL 2:
+- o jogador faz o puzzle do relogio descobre os numeros dos pratos e as cores dos itens
+- pega na geladeira a bola de gude e protese vermelha
+- escolhe os pratos 3(bola de gude azul) e 5(protese vermelha)
+- nessa situação voce volta para o menu de escolha
+- cenario muda(luzes se apagam e aparece uma sombra sinistra com esboço de mulher te olhando de longe com outra sombra igualmente sinistra do tamanho de uma criança pequena de 8 anos)
+- se voce for para o banheiro e interagir pela primeira vez no espelho vai aparecer a mulher atras com olhos de sangue te olhando pelo reflexo alem de uma mancha de sangue no espelho
+- pela segunad vez derruba o espelho e aparece a passagem pela ventilação
+- pega o fosforo
+- pega a chave do armazem 
+- pega as chaves do carro e a gasolina
+- derrete o cubo de plastico e pega a chave do oleo
+- usa em ambos 
+- mas agora o carro tem uma mensagem me sangue "assasino"
+- o cara apaga e acorda no quarto
+- a ventilação está tampada
+- o quarto fica escuro
+- o cara é obrigado a incendiar a casa e morre
